@@ -1,8 +1,8 @@
 # Machine Learning and Adaptive Intelligence 
 
-## Neil D. Lawrence
+## Mauricio Alvarez and Neil D. Lawrence
 
-For lab classes from 2013-14 please see [here](./2013-14/index.ipynb)
+For lab classes from 2015 please see [here](./mlai2015/index.ipynb)
 
 Welcome to the COM4509/6509 Course on "Machine Learning and Adaptive Intelligence". This year the course has undergone a slight shift of focus relative to last year, in particular we will be introducing more emphasis on practical techniques for processing data using the Jupyter Notebook.
 
