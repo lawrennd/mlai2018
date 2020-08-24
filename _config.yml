@@ -1,9 +1,11 @@
 # Site settings
 title: Machine Learning and Adaptive Intelligence 2015
-email: N.Lawrence@sheffield.ac.uk
+author:
+  name: Neil D. Lawrence
+  email: 
 description: > # this means to ignore newlines until "baseurl:"
   Module on machine learning and Adaptive Intelligence as taught in 2015.
-baseurl: "/mlai2015" # the subpath of your site, e.g. /blog/
+baseurl: "/mlai2018" # the subpath of your site, e.g. /blog/
 url: "http://inverseprobability.com/" # the base hostname & protocol for your site
 
 video:
@@ -14,16 +16,25 @@ reveal:
   width: 400
   height: 300
 
-gitraw: "https://raw.githubusercontent.com/lawrennd/mlai2015/master"
-nbviewer: "http://nbviewer.ipython.org/github/lawrennd/mlai2015/blob/master"
+gitraw: "https://raw.githubusercontent.com/lawrennd/mlai2018/master"
+nbviewer: "http://nbviewer.ipython.org/github/lawrennd/mlai2018/blob/master"
 twitter_username: lawrennd
 github_username:  lawrennd
 disqus: inverseprobabilitycom
 comments: true
 
-github:
+ghub:
   edit: true
+  repository: mlai2018
 
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: ndltalk
+
+  
 analytics:
   google:
     tracking_id: UA-62968536-1
