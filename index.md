@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Overview"
+layout: home
+title: Overview
 ---
 
-COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16
-==================================================================
+COM4509/COM6509 Machine Learning and Adaptive Intelligence 
+===========================================================
 
 ### Course Overview
 
