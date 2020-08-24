@@ -1,5 +1,5 @@
 # Site settings
-title: Machine Learning and Adaptive Intelligence 2015
+title: Machine Learning and Adaptive Intelligence 2018
 author:
   name: Neil D. Lawrence
   email: 
@@ -7,6 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Module on machine learning and Adaptive Intelligence as taught in 2015.
 baseurl: "/mlai2018" # the subpath of your site, e.g. /blog/
 url: "http://inverseprobability.com/" # the base hostname & protocol for your site
+
+slidesdir: slides
+
 
 video:
   width: 400
